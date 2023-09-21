@@ -1,4 +1,8 @@
+
+// Shayne Yanson: "life is hard pero mas matigas ulo ko :D"
+// Lorem Ipsum: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
 // Shina Guazon : "life is short, so is my patience"
+
 
 import 'package:flutter/material.dart';
 
