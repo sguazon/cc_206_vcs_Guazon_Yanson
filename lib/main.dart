@@ -1,4 +1,5 @@
 // Shayne Yanson: "life is hard pero mas matigas ulo ko :D"
+// Lorem Ipsum: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
 
 import 'package:flutter/material.dart';
 
