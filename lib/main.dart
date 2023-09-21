@@ -1,3 +1,5 @@
+// Shayne Yanson: "life is hard pero mas matigas ulo ko :D"
+
 import 'package:flutter/material.dart';
 
 void main() {
